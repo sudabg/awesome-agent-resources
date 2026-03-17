@@ -265,3 +265,36 @@ To the extent possible under law, the contributors have waived all copyright and
 *Last updated: 2026-03-17*
 
 </div>
+
+## 📡 Discovered from Awesome Lists
+
+*Resources extracted through systematic deep-dives into the awesome ecosystem.*
+
+### From awesome-llm (2026-03-17)
+
+#### Training & Inference
+- [Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) - LLM inference papers with codes.
+- [Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) - LLM compression research papers and tools.
+- [DSPy](https://github.com/stanfordnlp/dspy) - Programming—not prompting—foundation models. ⭐6.1K
+
+#### Evaluation
+- [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - Few-shot evaluation framework for language models.
+- [simple-evals](https://github.com/openai/simple-evals) - Eval tools by OpenAI.
+- [HELM](https://github.com/stanford-crfm/helm) - Holistic Evaluation of Language Models. Transparency framework.
+- [Ragas](https://github.com/explodinggradients/ragas) - Evaluate RAG pipelines.
+- [Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html) - Evaluates LLM's ability to call external functions/tools.
+
+#### Prompting & Reasoning
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - Prompt examples for ChatGPT.
+- [Awesome Deliberative Prompting](https://github.com/logikon-ai/awesome-deliberative-prompting) - How to ask LLMs to produce reliable reasoning.
+- [Chain-of-Thoughts Papers](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers) - CoT papers collection.
+
+#### Security & Safety
+- [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security) - Tools, documents and projects about LLM Security.
+
+#### Embodied AI & 3D
+- [Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) - Multi-modal LLM in 3D world, including embodied agents.
+
+#### Data
+- [LLMDatahub](https://github.com/Zjh-819/LLMDataHub) - Curated collection of datasets for chatbot training.
+- [Awesome LLM Human Preference Datasets](https://github.com/PolisAI/awesome-llm-human-preference-datasets) - Human preference datasets for RLHF.
