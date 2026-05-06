@@ -78,6 +78,8 @@
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) - Task-driven autonomous agent. Simple but influential.
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - GPT-4 powered autonomous agent. ⭐168K
 - [CrewAI](https://github.com/joaomdmoura/crewAI) - Role-based multi-agent collaboration. ⭐19K
+- [Superpowers](https://github.com/obra/superpowers) - Agentic skills framework & software development methodology. ⭐180K — **Top 1 Agent project on GitHub**
+- [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - "omo; the best agent harness" (formerly oh-my-opencode). ⭐56K — 增长迅猛的 Agent harness 项目
 
 ---
 
@@ -142,6 +144,7 @@
 - [PokeAgent Challenge](https://pokeagentchallenge.com/) - Multi-agent decision-making benchmark using Pokemon. Partial observability + strategic reasoning + long-horizon planning.
 - [SWE-bench](https://www.swebench.com/) - Software engineering benchmark for coding agents.
 - [BenchPress](https:///) - Evaluation matrix for agent capabilities. Pokemon battling is nearly orthogonal to standard LLM benchmarks.
+- [OpenSeeker-v2](https://arxiv.org/abs/2605.04036v1) - Pushing search agent limits with informative high-difficulty trajectories. 2026-05 — **最新搜索 Agent benchmark**
 
 ---
 
@@ -150,6 +153,7 @@
 - [Constitutional AI](https://arxiv.org/abs/2212.08073) - Harmlessness from AI feedback.
 - [SafeRLHF](https://github.com/HKUST-KnowComp/SafeRLHF) - Safety-focused RLHF with constraint-aware preference learning.
 - [Agent Safety](https://github.com/) - Harmful behavior detection for agents.
+- [TRACE](https://arxiv.org/abs/2605.03838v1) - Metrologically-grounded engineering framework for trustworthy agentic AI. 2026-05 — 四层参考架构 + 经典ML/LLM验证器分离
 - **Dev Rigor** — Three iron laws: (1) No fixes without root cause first (2) No production code without failing test first (3) No completion claims without fresh verification evidence.
 
 ---
@@ -161,6 +165,13 @@
 - [GitHub CLI (gh)](https://cli.github.com/) - GitHub from the command line. Essential for agent GitHub operations.
 - [Xray-core](https://github.com/XTLS/Xray-core) - Network proxy for accessing external resources. VLESS-reality protocol.
 - [Cloudflared](https://github.com/cloudflare/cloudflared) - Quick tunnels for exposing local services.
+
+### MCP Ecosystem
+- [ActivePieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & Workflow Automation. ~400 MCP servers. ⭐22K — 最大 MCP 生态之一
+- [MCP Toolbox (Google)](https://github.com/googleapis/mcp-toolbox) - Google 官方 MCP Toolbox for Databases. ⭐15K — 生产级数据库 MCP 标杆
+- [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server for Figma layout → coding agents. ⭐15K — 设计→代码链路基础设施
+- [mcp-use](https://github.com/mcp-use/mcp-use) - Fullstack MCP framework for ChatGPT/Claude + MCP Servers. ⭐10K
+- [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) - MCP Server for 150+ security/pentest tools. ⭐8.6K — 安全领域 MCP 深度集成
 
 ### Monitoring & Health
 
@@ -189,6 +200,7 @@
 - [Attention Residuals (AttnRes)](https:///) - MoonshotAI: Replace fixed residual connections with attention-weighted depth history. +7.5 GPQA-Diamond with <4% overhead.
 - [Mamba-3](https://arxiv.org/) - Inference-first sequence modeling. SSM discretization + complex-valued state + MIMO. Half state size, same perplexity.
 - [OpenSeeker](https://arxiv.org/) - Fully open-source search agent. 11.7k samples + SFT beats industrial systems trained with continual pre-training + SFT + RL.
+- [Qwen3.6-35B-A3B](https://qwen.ai/blog?id=qwen3.6-35b-a3b) - 通义千问 Agent coding 能力新突破. 2026-04 — 国内模型重要更新
 
 ### Awesome Lists
 
@@ -211,6 +223,9 @@
 - [Modal](https://modal.com/) - Serverless compute for AI workloads.
 - [Beam](https://beam.cloud/) - Serverless GPUs.
 - [VLLM](https://github.com/vllm-project/vllm) - High-throughput LLM serving.
+- [OptiLLM](https://github.com/algorithmicsuperintelligence/optillm) - Optimizing inference proxy for LLMs. ⭐3.5K — LLM 推理成本优化
+- [Superduper](https://github.com/superduper-io/superduper) - End-to-end framework for custom AI apps & agents. ⭐5.3K
+- [CSGHub](https://github.com/OpenCSGs/csghub) - 开源 LLM 管理平台 (OpenCSG 团队). ⭐4.2K — 国内团队
 
 ---
 
